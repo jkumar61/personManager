@@ -1,4 +1,4 @@
-<h2> Personal Manager</h2>
+<h2> WIP-Personal Manager</h2>
 
 This is a learning and test project which is in progress of Development and it was started as the purpose of learning various technologies and implementing. 
 The technologies used in this project are <b>Python, Sqlite,html, css and Bulma css framework</b>.
